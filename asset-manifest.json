@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Navbar-React-Project/static/css/main.d1743f3b.chunk.css",
+    "main.js": "/Navbar-React-Project/static/js/main.1e974ec8.chunk.js",
+    "main.js.map": "/Navbar-React-Project/static/js/main.1e974ec8.chunk.js.map",
+    "runtime-main.js": "/Navbar-React-Project/static/js/runtime-main.80ad1807.js",
+    "runtime-main.js.map": "/Navbar-React-Project/static/js/runtime-main.80ad1807.js.map",
+    "static/js/2.81c645b4.chunk.js": "/Navbar-React-Project/static/js/2.81c645b4.chunk.js",
+    "static/js/2.81c645b4.chunk.js.map": "/Navbar-React-Project/static/js/2.81c645b4.chunk.js.map",
+    "index.html": "/Navbar-React-Project/index.html",
+    "precache-manifest.96a15bec1dcbf55868fd5b6235e238bc.js": "/Navbar-React-Project/precache-manifest.96a15bec1dcbf55868fd5b6235e238bc.js",
+    "service-worker.js": "/Navbar-React-Project/service-worker.js",
+    "static/css/main.d1743f3b.chunk.css.map": "/Navbar-React-Project/static/css/main.d1743f3b.chunk.css.map",
+    "static/js/2.81c645b4.chunk.js.LICENSE.txt": "/Navbar-React-Project/static/js/2.81c645b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Navbar-React-Project/static/media/logo.0eb8b5ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ad1807.js",
+    "static/js/2.81c645b4.chunk.js",
+    "static/css/main.d1743f3b.chunk.css",
+    "static/js/main.1e974ec8.chunk.js"
+  ]
+}
